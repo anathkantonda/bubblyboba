@@ -13,7 +13,7 @@ It was a fun way to practise working with types, state, simple data flow, and UI
 ## Screenshots
 
 <p align="center">
-    <img src="./screenshots/screenshots.png" alt="Screenshots" width="30%" >
+    <img src="./screenshots/screenshots.png" alt="Screenshots" width="70%" >
 </p>
 
 ---
