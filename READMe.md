@@ -20,7 +20,7 @@ It was a fun way to practise working with types, state, simple data flow, and UI
 
 ## Live Demo
 
-Live Site: https://your-link-here.com
+Live Site: https://bubblyboba.vercel.app/
 
 ---
 
